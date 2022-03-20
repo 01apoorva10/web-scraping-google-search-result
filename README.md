@@ -1,7 +1,7 @@
 # web-scraping-google-search-result
 
 
--- A python Script to simulate search query using Selenium Webdriver 
+-- A python Script to simulate search query using Selenium Webdriver <br>
 -- extract URLs of first resultant page by finding appropriate HTML tags
 -- scraping URLs by using python set properties to prevent repetetive links
 -- indexing through links to scrape website content using corresponding links
