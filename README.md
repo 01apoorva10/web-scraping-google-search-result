@@ -8,3 +8,4 @@
 -- module ( pandas ) to read the two tables contating URLs and text
 -- SQL insertion using python , MySQL database
 -- python modules : selenium , Beautiful Soup
+.
