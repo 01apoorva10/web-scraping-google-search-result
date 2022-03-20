@@ -16,7 +16,7 @@ HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36
 """
 CREATE DATABASE.
 """
-conn = mysql.connector.connect(host="localhost", user="root", passwd="123mysqladmin")
+conn = mysql.connector.connect(host="localhost", user="root", passwd="***********")
 cursor = conn.cursor()
 cursor.execute('''CREATE DATABASE IF NOT EXISTS gscrape''')
 
